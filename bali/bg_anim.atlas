@@ -1,0 +1,124 @@
+
+bg_anim.png
+size: 2876,1787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BFG_0000s_0003_pura
+  rotate: false
+  xy: 0, 0
+  size: 1500, 456
+  orig: 1500, 456
+  offset: 0, 0
+  index: -1
+BFG_0000s_0004_ground
+  rotate: false
+  xy: 0, 1115
+  size: 1500, 200
+  orig: 1500, 200
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0000_cloth-wall
+  rotate: false
+  xy: 0, 1714
+  size: 1469, 73
+  orig: 1469, 73
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0000s_0002_payung-1
+  rotate: true
+  xy: 1614, 1671
+  size: 116, 141
+  orig: 116, 141
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0001_cloth
+  rotate: false
+  xy: 1757, 1478
+  size: 1025, 309
+  orig: 1025, 309
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0001s_0002_payung-1
+  rotate: true
+  xy: 1471, 1671
+  size: 116, 141
+  orig: 116, 141
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0002_janur
+  rotate: true
+  xy: 2398, 504
+  size: 768, 478
+  orig: 768, 478
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0004_ground
+  rotate: false
+  xy: 0, 1317
+  size: 1500, 197
+  orig: 1500, 200
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0006_bushes
+  rotate: false
+  xy: 0, 834
+  size: 1500, 279
+  orig: 1500, 279
+  offset: 0, 0
+  index: -1
+bg_main_0001s_0007_mountain
+  rotate: false
+  xy: 0, 458
+  size: 1500, 374
+  orig: 1500, 374
+  offset: 0, 0
+  index: -1
+cl_0001s_0000s_0000_2
+  rotate: false
+  xy: 0, 1516
+  size: 1362, 196
+  orig: 1362, 301
+  offset: 0, 13
+  index: -1
+cl_0001s_0000s_0001_1
+  rotate: false
+  xy: 1502, 1274
+  size: 1366, 202
+  orig: 1366, 225
+  offset: 0, 23
+  index: -1
+cl_0001s_0001s_0003_2
+  rotate: false
+  xy: 1502, 51
+  size: 1051, 451
+  orig: 1053, 453
+  offset: 2, 2
+  index: -1
+cl_0001s_0001s_0004_1
+  rotate: false
+  xy: 1502, 829
+  size: 894, 443
+  orig: 900, 461
+  offset: 1, 18
+  index: -1
+
+bg_anim2.png
+size: 1500,1073
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_main_0001s_0003_pura
+  rotate: false
+  xy: 0, 0
+  size: 1500, 456
+  orig: 1500, 456
+  offset: 0, 0
+  index: -1
+cl_0001s_0001s_0002_3
+  rotate: false
+  xy: 0, 458
+  size: 1380, 615
+  orig: 1380, 625
+  offset: 0, 1
+  index: -1
