@@ -1,0 +1,83 @@
+
+bonus_anim.png
+size: 3362,1928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_0000s_0000_bonus_water
+  rotate: true
+  xy: 1968, 428
+  size: 1500, 595
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+BG_0000s_0001_bonus_front
+  rotate: true
+  xy: 2565, 428
+  size: 1500, 404
+  orig: 1500, 640
+  offset: 0, 0
+  index: -1
+BG_0000s_0002_bonus_highlight_2
+  rotate: false
+  xy: 557, 44
+  size: 1283, 285
+  orig: 1500, 640
+  offset: 183, 106
+  index: -1
+BG_0000s_0003_bonus_building2
+  rotate: true
+  xy: 2971, 428
+  size: 1500, 391
+  orig: 1500, 640
+  offset: 0, 0
+  index: -1
+BG_0000s_0004_bonus_cloud_3
+  rotate: false
+  xy: 2684, 92
+  size: 596, 334
+  orig: 611, 348
+  offset: 4, 7
+  index: -1
+BG_0000s_0005_bonus_cloud_2
+  rotate: false
+  xy: 0, 0
+  size: 555, 321
+  orig: 562, 321
+  offset: 0, 0
+  index: -1
+BG_0000s_0006_bonus_cloud_1
+  rotate: false
+  xy: 1968, 54
+  size: 714, 372
+  orig: 714, 376
+  offset: 0, 0
+  index: -1
+spot-1
+  rotate: false
+  xy: 500, 331
+  size: 488, 1597
+  orig: 1500, 1640
+  offset: 506, 0
+  index: -1
+spot-2
+  rotate: false
+  xy: 0, 323
+  size: 498, 1605
+  orig: 1500, 1640
+  offset: 501, 0
+  index: -1
+spot-3
+  rotate: false
+  xy: 990, 331
+  size: 488, 1597
+  orig: 1500, 1640
+  offset: 506, 0
+  index: -1
+spot-4
+  rotate: false
+  xy: 1480, 331
+  size: 486, 1597
+  orig: 1500, 1640
+  offset: 507, 0
+  index: -1
