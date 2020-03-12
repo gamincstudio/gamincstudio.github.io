@@ -1,0 +1,229 @@
+{
+"skeleton": {
+	"hash": "QXw8JYJpz7XWT2EBoJ4giPbENyU",
+	"spine": "3.8.72",
+	"x": -63.04,
+	"y": -3281.65,
+	"width": 4377.5,
+	"height": 3338.25,
+	"images": "../../bg_bonus/",
+	"audio": "/Users/sarkom5/Documents/background-hantu/spine"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "base", "parent": "root", "x": 1504.63, "y": -1641.03 },
+	{ "name": "tree-1", "parent": "root", "x": 98.91, "y": -1959.57 },
+	{ "name": "tree-2", "parent": "root", "x": 3000.2, "y": -1281.33 },
+	{ "name": "tree3", "parent": "root", "x": 2634.3, "y": -1851.17 },
+	{ "name": "moon", "parent": "root", "x": 1504.64, "y": -1641 },
+	{ "name": "cloud", "parent": "root", "x": 2124.46, "y": -1311.4, "scaleX": 2.5, "scaleY": 3 },
+	{ "name": "skies", "parent": "root", "x": 1504.25, "y": -1640.78 },
+	{ "name": "tree-1-2", "parent": "tree-1", "x": 243.15, "y": 84.69 },
+	{ "name": "tree-1-5", "parent": "tree-1", "x": 33.32, "y": -148.28 },
+	{ "name": "tree-1-6", "parent": "tree-1", "x": 115.21, "y": 217.21 },
+	{ "name": "tree-1-4", "parent": "tree-1", "x": 136.76, "y": 47.39 },
+	{ "name": "tree-1-3", "parent": "tree-1", "x": 244.29, "y": 94.77 },
+	{ "name": "tree-2-2", "parent": "tree-2", "x": -229.95, "y": -218.37 },
+	{ "name": "tree-2-3", "parent": "tree-2", "x": -78.11, "y": -34.26 },
+	{ "name": "tree-2-5", "parent": "tree-2", "x": -106.58, "y": 270.89 },
+	{ "name": "tree-2-4", "parent": "tree-2", "x": -162.07, "y": 293.8 },
+	{ "name": "tree-3-2", "parent": "tree3", "x": -25.33, "y": -19.79 },
+	{ "name": "tree-3-1", "parent": "tree3", "x": -143.48, "y": 140.46 }
+],
+"slots": [
+	{ "name": "bg-cloud-lowres", "bone": "cloud", "attachment": "bg-cloud-lowres" },
+	{ "name": "bg-base", "bone": "base", "attachment": "bg-base" },
+	{ "name": "tree-1-1", "bone": "tree-1", "attachment": "tree-1-1" },
+	{ "name": "tree-1-2", "bone": "tree-1-2", "attachment": "tree-1-2" },
+	{ "name": "tree-1-3", "bone": "tree-1-3", "attachment": "tree-1-3" },
+	{ "name": "tree-1-4", "bone": "tree-1-4", "attachment": "tree-1-4" },
+	{ "name": "tree-1-5", "bone": "tree-1-5", "attachment": "tree-1-5" },
+	{ "name": "tree-1-6", "bone": "tree-1-6", "attachment": "tree-1-6" },
+	{ "name": "tree-3-1", "bone": "tree-3-1", "attachment": "tree-3-1" },
+	{ "name": "tree-3-2", "bone": "tree-3-2", "attachment": "tree-3-2" },
+	{ "name": "tree-3-3", "bone": "tree3", "attachment": "tree-3-3" },
+	{ "name": "tree-2-1", "bone": "tree-2", "attachment": "tree-2-1" },
+	{ "name": "tree-2-2", "bone": "tree-2-2", "attachment": "tree-2-2" },
+	{ "name": "tree-2-3", "bone": "tree-2-3", "attachment": "tree-2-3" },
+	{ "name": "tree-2-4", "bone": "tree-2-4", "attachment": "tree-2-4" },
+	{ "name": "tree-2-5", "bone": "tree-2-5", "attachment": "tree-2-5" },
+	{ "name": "bg-moon", "bone": "moon", "attachment": "bg-moon" },
+	{ "name": "bg-window-mask", "bone": "base", "attachment": "bg-window-mask" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bg-moon": {
+				"bg-moon": { "width": 3000, "height": 3280 }
+			},
+			"tree-3-2": {
+				"tree-3-2": { "x": -1101.71, "y": 231.11, "width": 3000, "height": 3280 }
+			},
+			"tree-2-2": {
+				"tree-2-2": { "x": -1269.51, "y": -141.95, "width": 3000, "height": 3280 }
+			},
+			"tree-2-5": {
+				"tree-2-5": { "x": -1392.89, "y": -631.21, "width": 3000, "height": 3280 }
+			},
+			"bg-base": {
+				"bg-base": { "x": -4.42, "y": 0.84, "width": 3000, "height": 3280 }
+			},
+			"tree-3-3": {
+				"tree-3-3": { "x": -1127.04, "y": 211.32, "width": 3000, "height": 3280 }
+			},
+			"bg-window-mask": {
+				"bg-window-mask": { "x": -3.9, "y": 0.78, "width": 3000, "height": 3280 }
+			},
+			"tree-1-1": {
+				"tree-1-1": { "x": 1401.31, "y": 321.13, "width": 3000, "height": 3280 }
+			},
+			"tree-1-2": {
+				"tree-1-2": { "x": 1158.16, "y": 236.44, "width": 3000, "height": 3280 }
+			},
+			"tree-1-3": {
+				"tree-1-3": { "x": 1157.02, "y": 226.36, "width": 3000, "height": 3280 }
+			},
+			"tree-1-4": {
+				"tree-1-4": { "x": 1264.55, "y": 273.74, "width": 3000, "height": 3280 }
+			},
+			"tree-1-5": {
+				"tree-1-5": { "x": 1367.99, "y": 469.41, "width": 3000, "height": 3280 }
+			},
+			"tree-1-6": {
+				"tree-1-6": { "x": 1286.1, "y": 103.93, "width": 3000, "height": 3280 }
+			},
+			"bg-cloud-lowres": {
+				"bg-cloud-lowres": { "x": 0.5, "width": 1751, "height": 912 }
+			},
+			"tree-2-1": {
+				"tree-2-1": { "x": -1499.46, "y": -360.32, "width": 3000, "height": 3280 }
+			},
+			"tree-2-3": {
+				"tree-2-3": { "x": -1421.35, "y": -326.06, "width": 3000, "height": 3280 }
+			},
+			"tree-2-4": {
+				"tree-2-4": { "x": -1337.39, "y": -654.11, "width": 3000, "height": 3280 }
+			},
+			"tree-3-1": {
+				"tree-3-1": { "x": -983.56, "y": 70.86, "width": 3000, "height": 3280 }
+			}
+		}
+	}
+],
+"animations": {
+	"bg_bonus_anim": {
+		"slots": {
+			"bg-cloud-lowres": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"bg-window-mask": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"cloud": {
+				"translate": [
+					{},
+					{ "time": 2, "x": -310.03, "y": -59.82 }
+				]
+			},
+			"tree-1-5": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -2.51 },
+					{ "time": 2 }
+				]
+			},
+			"tree-1-2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -10.6 },
+					{ "time": 2 }
+				]
+			},
+			"tree-1-3": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -3.38 },
+					{ "time": 2 }
+				]
+			},
+			"tree-1-4": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -14.72 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "x": 12.46 },
+					{ "time": 2 }
+				]
+			},
+			"tree-1-6": {
+				"rotate": [
+					{},
+					{ "time": 1.0333, "angle": -19.62 },
+					{ "time": 2 }
+				]
+			},
+			"tree-2-2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 12.6 },
+					{ "time": 2 }
+				]
+			},
+			"tree-2-3": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -5.13 },
+					{ "time": 2 }
+				]
+			},
+			"tree-2-4": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -17.64 },
+					{ "time": 2 }
+				]
+			},
+			"tree-2-5": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -4.82 },
+					{ "time": 2 }
+				]
+			},
+			"tree-3-1": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 17.67 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "x": -6.65, "y": -8.55 },
+					{ "time": 2 }
+				]
+			},
+			"tree-3-2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 3.98 },
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,90 @@
+
+idol.png
+size: 2586,1412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jgl_0000s_0000_brow
+  rotate: true
+  xy: 2175, 57
+  size: 176, 42
+  orig: 179, 42
+  offset: 2, 0
+  index: -1
+jgl_0000s_0001_hand-left-down
+  rotate: false
+  xy: 2351, 210
+  size: 176, 190
+  orig: 337, 355
+  offset: 0, 24
+  index: -1
+jgl_0000s_0002_lip
+  rotate: true
+  xy: 1784, 63
+  size: 97, 35
+  orig: 102, 35
+  offset: 0, 0
+  index: -1
+jgl_0000s_0002_lip-open
+  rotate: true
+  xy: 1714, 59
+  size: 101, 68
+  orig: 105, 68
+  offset: 0, 0
+  index: -1
+jgl_0000s_0003_hand-left
+  rotate: true
+  xy: 1042, 143
+  size: 257, 670
+  orig: 533, 686
+  offset: 2, 16
+  index: -1
+jgl_0000s_0004_bag
+  rotate: true
+  xy: 1714, 162
+  size: 238, 270
+  orig: 238, 270
+  offset: 0, 0
+  index: -1
+jgl_0000s_0005_eye-close
+  rotate: true
+  xy: 2098, 43
+  size: 190, 75
+  orig: 190, 75
+  offset: 0, 0
+  index: -1
+jgl_0000s_0006_head
+  rotate: true
+  xy: 0, 27
+  size: 373, 391
+  orig: 373, 391
+  offset: 0, 0
+  index: -1
+jgl_0000s_0007_body
+  rotate: true
+  xy: 0, 402
+  size: 1010, 2586
+  orig: 1010, 2790
+  offset: 0, 0
+  index: -1
+jgl_0000s_0008_side-hair
+  rotate: false
+  xy: 1986, 0
+  size: 110, 233
+  orig: 110, 233
+  offset: 0, 0
+  index: -1
+jgl_0000s_0009_hand-left
+  rotate: true
+  xy: 393, 30
+  size: 370, 647
+  orig: 445, 717
+  offset: 0, 70
+  index: -1
+jgl_0000s_0010_hair-back
+  rotate: true
+  xy: 1986, 235
+  size: 165, 363
+  orig: 168, 371
+  offset: 0, 8
+  index: -1
