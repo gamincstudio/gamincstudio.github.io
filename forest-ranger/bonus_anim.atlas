@@ -1,166 +1,110 @@
 
 bonus_anim.png
-size: 3401,2810
+size: 2916,1797
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-1_0000s_0000_Cahaya_atas_free
-  rotate: true
-  xy: 2379, 6
-  size: 1322, 380
-  orig: 1500, 640
-  offset: 82, 260
-  index: -1
-1_0000s_0001_Cahaya2_free
-  rotate: false
-  xy: 2567, 2394
-  size: 834, 416
-  orig: 1500, 640
-  offset: 451, 148
-  index: -1
 1_0000s_0006_Cahaya2
   rotate: false
-  xy: 2567, 2394
+  xy: 1291, 295
   size: 834, 416
   orig: 1500, 640
   offset: 451, 148
   index: -1
-1_0000s_0002_Cahaya_jatuh_free
-  rotate: true
-  xy: 1627, 1330
-  size: 1480, 468
-  orig: 1500, 640
-  offset: 0, 0
-  index: -1
-1_0000s_0004_freegame
-  rotate: true
-  xy: 0, 1310
-  size: 1500, 640
-  orig: 1500, 640
-  offset: 0, 0
-  index: -1
 1_0000s_0006_Daun-
-  rotate: true
-  xy: 642, 1310
+  rotate: false
+  xy: 1324, 992
   size: 1500, 335
   orig: 1500, 1640
   offset: 0, 991
   index: -1
 1_0000s_0007_rumput-2
-  rotate: true
-  xy: 0, 19
+  rotate: false
+  xy: 0, 427
   size: 1289, 284
   orig: 1500, 640
   offset: 121, 157
   index: -1
 1_0000s_0008_Rumput
-  rotate: true
-  xy: 286, 176
+  rotate: false
+  xy: 0, 40
   size: 1132, 385
   orig: 1500, 640
   offset: 46, 38
   index: -1
 1_0000s_0009_Cahaya_jatuh
-  rotate: true
-  xy: 2097, 1330
+  rotate: false
+  xy: 1324, 1329
   size: 1480, 468
   orig: 1500, 640
   offset: 0, 0
   index: -1
 1_0000s_0011_daun-ranting-2
   rotate: true
-  xy: 2679, 1342
+  xy: 2621, 134
   size: 138, 238
   orig: 1500, 640
   offset: 1362, 369
   index: -1
 1_0000s_0012_daun-ranting-3
-  rotate: true
-  xy: 2959, 451
+  rotate: false
+  xy: 2621, 274
   size: 239, 240
   orig: 1500, 640
   offset: 0, 400
   index: -1
 1_0000s_0013_Daun-Ranting
-  rotate: false
-  xy: 2679, 1482
+  rotate: true
+  xy: 2127, 0
   size: 711, 287
   orig: 1500, 640
   offset: 576, 335
   index: -1
 1_0000s_0014_Daun-Semak-2
   rotate: true
-  xy: 2567, 1338
+  xy: 2806, 1366
   size: 431, 110
   orig: 1500, 640
   offset: 1069, 0
   index: -1
 1_0000s_0015_Daun-Semak
   rotate: false
-  xy: 286, 30
+  xy: 1324, 713
   size: 1058, 144
   orig: 1500, 640
   offset: 0, 0
   index: -1
-1_0000s_0016_cahaya_atas
-  rotate: true
-  xy: 1997, 6
-  size: 1322, 380
-  orig: 1500, 640
-  offset: 82, 260
-  index: -1
 1_0000s_daunsemak3
-  rotate: false
-  xy: 2959, 692
+  rotate: true
+  xy: 2621, 516
   size: 341, 230
   orig: 1500, 640
   offset: 0, 171
   index: -1
 Back_Ground_3000_3280-setting_0000s_0000_Layer-2-copy-2
-  rotate: true
-  xy: 979, 1310
+  rotate: false
+  xy: 1324, 859
   size: 1500, 131
   orig: 1500, 1640
   offset: 0, 1509
   index: -1
-Back_Ground_3000_3280-setting_0000s_0001_Cahaya
-  rotate: false
-  xy: 2567, 1976
-  size: 834, 416
-  orig: 1640, 1500
-  offset: 537, 578
-  index: -1
-Back_Ground_3000_3280-setting_0000s_0003_Cahaya
-  rotate: true
-  xy: 1112, 1330
-  size: 1480, 513
-  orig: 1640, 1500
-  offset: 86, 385
-  index: -1
 Back_Ground_3000_3280-setting_0000s_0004_Cahaya
   rotate: false
-  xy: 673, 224
+  xy: 0, 713
   size: 1322, 1084
   orig: 1640, 1500
   offset: 168, 416
   index: -1
-bonus-highlight
-  rotate: true
-  xy: 2919, 924
-  size: 556, 479
-  orig: 876, 876
-  offset: 184, 392
-  index: -1
 bonus_0000s_0005_daun_bonus1
-  rotate: false
-  xy: 2567, 1771
+  rotate: true
+  xy: 2416, 50
   size: 807, 203
   orig: 1500, 1640
   offset: 693, 445
   index: -1
 bonus_0000s_0006_daun_bonus-2
-  rotate: true
-  xy: 2761, 0
+  rotate: false
+  xy: 1134, 97
   size: 922, 196
   orig: 1500, 1640
   offset: 0, 436

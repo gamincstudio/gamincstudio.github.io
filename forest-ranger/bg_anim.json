@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "qpWZZWrowwaluiI5+VByATib5Ok",
+	"hash": "5XoY/NdWoO+D1B4CkRLx8Vm4zvg",
 	"spine": "3.8.72",
 	"x": -0.19,
 	"y": -1515.47,
@@ -29,9 +29,9 @@
 ],
 "slots": [
 	{ "name": "1_0000s_daunsemak3", "bone": "bone", "attachment": "1_0000s_daunsemak3" },
-	{ "name": "1_0000s_0016_cahaya_atas", "bone": "cahaya", "attachment": "1_0000s_0016_cahaya_atas", "blend": "screen" },
-	{ "name": "1_0000s_0009_Cahaya_jatuh", "bone": "cahaya", "attachment": "1_0000s_0009_Cahaya_jatuh", "blend": "additive" },
-	{ "name": "1_0000s_0006_Cahaya2", "bone": "cahaya", "attachment": "1_0000s_0006_Cahaya2", "blend": "screen" },
+	{ "name": "1_0000s_0016_cahaya_atas", "bone": "cahaya", "attachment": "1_0000s_0016_cahaya_atas" },
+	{ "name": "1_0000s_0009_Cahaya_jatuh", "bone": "cahaya", "attachment": "1_0000s_0009_Cahaya_jatuh" },
+	{ "name": "1_0000s_0006_Cahaya2", "bone": "cahaya", "attachment": "1_0000s_0006_Cahaya2" },
 	{ "name": "1_0000s_0014_Daun-Semak-2", "bone": "daun-depan", "attachment": "1_0000s_0014_Daun-Semak-2" },
 	{ "name": "1_0000s_0015_Daun-Semak", "bone": "daun-depan", "attachment": "1_0000s_0015_Daun-Semak" },
 	{ "name": "1_0000s_0005_Daun", "bone": "daun", "attachment": "1_0000s_0005_Daun" },
@@ -42,7 +42,7 @@
 	{ "name": "1_0000s_0011_daun-ranting-2", "bone": "daun-ranting-2", "attachment": "1_0000s_0011_daun-ranting-2" },
 	{ "name": "1_0000s_0012_daun-ranting-3", "bone": "daun-ranting-3", "attachment": "1_0000s_0012_daun-ranting-3" },
 	{ "name": "1_0000s_0004_freegame", "bone": "cahaya2", "attachment": "1_0000s_0004_freegame" },
-	{ "name": "bonus-highlight", "bone": "bg2", "color": "ffffffc2", "attachment": "bonus-highlight", "blend": "screen" }
+	{ "name": "bonus-highlight", "bone": "bg2", "color": "ffffffc2", "attachment": "bonus-highlight" }
 ],
 "skins": [
 	{
@@ -138,16 +138,6 @@
 "animations": {
 	"free_anim": {
 		"slots": {
-			"1_0000s_0009_Cahaya_jatuh": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 1, "color": "ffffffff" },
-					{ "time": 2, "color": "ffffff00" }
-				],
-				"attachment": [
-					{ "name": "1_0000s_0002_Cahaya_jatuh_free" }
-				]
-			},
 			"1_0000s_0016_cahaya_atas": {
 				"color": [
 					{ "color": "ffffff00" },
@@ -175,6 +165,16 @@
 				],
 				"attachment": [
 					{ "name": "1_0000s_0001_Cahaya2_free" }
+				]
+			},
+			"1_0000s_0009_Cahaya_jatuh": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "1_0000s_0002_Cahaya_jatuh_free" }
 				]
 			}
 		},
@@ -249,13 +249,6 @@
 	},
 	"main_anim": {
 		"slots": {
-			"1_0000s_0009_Cahaya_jatuh": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 1, "color": "ffffffff" },
-					{ "time": 2, "color": "ffffff00" }
-				]
-			},
 			"1_0000s_0016_cahaya_atas": {
 				"color": [
 					{ "color": "ffffff00" },
@@ -263,7 +256,7 @@
 					{ "time": 2, "color": "ffffff00" }
 				]
 			},
-			"1_0000s_0004_freegame": {
+			"bonus-highlight": {
 				"attachment": [
 					{ "name": null }
 				]
@@ -273,6 +266,18 @@
 					{ "color": "ffffff00" },
 					{ "time": 1, "color": "ffffffff" },
 					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"1_0000s_0009_Cahaya_jatuh": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"1_0000s_0004_freegame": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		},
