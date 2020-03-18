@@ -1,62 +1,55 @@
 
 bg_anim.png
-size: 3004,2429
+size: 3481,2620
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 background_punakawan_animated_0001_bg_cloud_front_2
-  rotate: false
-  xy: 2, 225
+  rotate: true
+  xy: 3205, 505
   size: 968, 255
   orig: 968, 255
   offset: 0, 0
   index: -1
 background_punakawan_animated_0001s_0000_Light
   rotate: false
-  xy: 1338, 505
-  size: 1157, 640
-  orig: 1162, 640
-  offset: 2, 0
+  xy: 2, 56
+  size: 2315, 1280
+  orig: 2324, 1280
+  offset: 4, 0
   index: -1
 background_punakawan_animated_0001s_0001_spark.png
   rotate: false
-  xy: 1144, 337
+  xy: 2984, 54
   size: 141, 143
   orig: 180, 178
   offset: 19, 17
   index: -1
 background_punakawan_animated_0001s_0002_Layer-46
-  rotate: true
-  xy: 972, 82
-  size: 398, 170
-  orig: 398, 170
+  rotate: false
+  xy: 2, 1338
+  size: 3000, 1280
+  orig: 3000, 1280
   offset: 0, 0
   index: -1
 background_punakawan_animated_0002_bg_cloud_front_1
-  rotate: false
-  xy: 1338, 284
+  rotate: true
+  xy: 2984, 199
   size: 1137, 219
   orig: 1137, 219
   offset: 0, 0
   index: -1
 background_punakawan_animated_0003_bg_cloud_behind_2
   rotate: true
-  xy: 2497, 2
+  xy: 3004, 1475
   size: 1143, 475
   orig: 1143, 475
   offset: 0, 0
   index: -1
 background_punakawan_animated_0004_bg_cloud_behind_1
-  rotate: false
-  xy: 2, 482
+  rotate: true
+  xy: 2319, 2
   size: 1334, 663
   orig: 1334, 663
-  offset: 0, 0
-  index: -1
-template
-  rotate: false
-  xy: 2, 1147
-  size: 3000, 1280
-  orig: 3000, 1280
   offset: 0, 0
   index: -1
