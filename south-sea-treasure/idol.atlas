@@ -1,0 +1,139 @@
+
+idol.png
+size: 3126,980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NRK_0000s_0000_tangan-kanan-Copy
+  rotate: false
+  xy: 1982, 44
+  size: 279, 104
+  orig: 279, 104
+  offset: 0, 0
+  index: -1
+NRK_0000s_0001_tangan-kanan
+  rotate: false
+  xy: 657, 28
+  size: 152, 289
+  orig: 152, 289
+  offset: 0, 0
+  index: -1
+NRK_0000s_0002_kalung
+  rotate: false
+  xy: 1392, 3
+  size: 146, 91
+  orig: 146, 91
+  offset: 0, 0
+  index: -1
+NRK_0000s_0003_anting
+  rotate: true
+  xy: 3055, 428
+  size: 147, 46
+  orig: 147, 46
+  offset: 0, 0
+  index: -1
+NRK_0000s_0004_kepala
+  rotate: false
+  xy: 1392, 96
+  size: 171, 301
+  orig: 171, 301
+  offset: 0, 0
+  index: -1
+NRK_0000s_0005_torso
+  rotate: true
+  xy: 1704, 150
+  size: 331, 844
+  orig: 331, 931
+  offset: 0, 0
+  index: -1
+NRK_0000s_0006_rok
+  rotate: true
+  xy: 2413, 577
+  size: 403, 713
+  orig: 405, 718
+  offset: 2, 0
+  index: -1
+NRK_0000s_0007_kaki-kanan
+  rotate: true
+  xy: 0, 57
+  size: 127, 619
+  orig: 150, 623
+  offset: 0, 4
+  index: -1
+NRK_0000s_0008_kaki_kiri
+  rotate: true
+  xy: 0, 186
+  size: 131, 655
+  orig: 131, 655
+  offset: 0, 0
+  index: -1
+NRK_0000s_0009_tangan_kiri2
+  rotate: false
+  xy: 1700, 55
+  size: 280, 93
+  orig: 280, 93
+  offset: 0, 0
+  index: -1
+NRK_0000s_0010_tangan_kiri
+  rotate: false
+  xy: 1565, 85
+  size: 133, 312
+  orig: 133, 319
+  offset: 0, 7
+  index: -1
+NRK_0000s_0011_rok_belakang
+  rotate: true
+  xy: 924, 0
+  size: 397, 466
+  orig: 397, 466
+  offset: 0, 0
+  index: -1
+NRK_0000s_0012_rambut
+  rotate: true
+  xy: 1704, 483
+  size: 497, 707
+  orig: 497, 707
+  offset: 0, 0
+  index: -1
+NRK_0001_syal-front
+  rotate: false
+  xy: 0, 319
+  size: 922, 661
+  orig: 922, 661
+  offset: 0, 0
+  index: -1
+NRK_0002_syal-back
+  rotate: false
+  xy: 924, 399
+  size: 778, 581
+  orig: 780, 600
+  offset: 0, 19
+  index: -1
+asset_0000_eye-shut
+  rotate: false
+  xy: 2413, 543
+  size: 110, 32
+  orig: 110, 32
+  offset: 0, 0
+  index: -1
+asset_0000_lip-smiling
+  rotate: false
+  xy: 811, 271
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2263, 4
+  size: 145, 144
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 2550, 87
+  size: 503, 488
+  orig: 597, 504
+  offset: 47, 0
+  index: -1

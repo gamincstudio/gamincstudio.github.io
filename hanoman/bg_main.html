@@ -1,0 +1,22 @@
+<script src="https://esotericsoftware.com/files/spine-player/3.8/spine-player.js"></script>
+<link rel="stylesheet" href="https://esotericsoftware.com/files/spine-player/3.8/spine-player.css">
+
+<div id="player-container" style="width: 100%; height: 100vh;"></div>
+
+<script>
+new spine.SpinePlayer("player-container", {
+	jsonUrl: "bg_anim.json",
+	atlasUrl: "bg_anim.atlas",
+	animations: ["main_anim"], // The user can only select one of these three animations
+	// showControls: false, // Hide the player controls
+	premultipliedAlpha: false, // Disable premultiplied alpha rendering
+	// backgroundColor: "#ff00ffff",
+	backgroundImage: { // Display a background image behind the skeleton
+		url: "bg_back.png",
+		x: 0,
+		y: -1280,
+		width: 3000,
+		height: 1280
+	}
+});
+</script>

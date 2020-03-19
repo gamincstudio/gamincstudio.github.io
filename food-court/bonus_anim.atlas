@@ -1,0 +1,145 @@
+
+bonus_anim.png
+size: 3684,2577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_bg_0000_light
+  rotate: true
+  xy: 800, 820
+  size: 813, 891
+  orig: 1029, 954
+  offset: 216, 0
+  index: -1
+_bg_0003_gradient
+  rotate: false
+  xy: 0, 35
+  size: 1500, 783
+  orig: 1500, 806
+  offset: 0, 0
+  index: -1
+_bg_0004_Layer-1
+  rotate: false
+  xy: 1056, 1635
+  size: 1207, 619
+  orig: 1207, 619
+  offset: 0, 0
+  index: -1
+bloom1
+  rotate: true
+  xy: 2512, 2126
+  size: 451, 524
+  orig: 1500, 1640
+  offset: 1001, 1116
+  index: -1
+bloom2
+  rotate: false
+  xy: 3038, 2000
+  size: 646, 577
+  orig: 1500, 1640
+  offset: 854, 512
+  index: -1
+bulb
+  rotate: false
+  xy: 2265, 1333
+  size: 1304, 665
+  orig: 1500, 1640
+  offset: 196, 639
+  index: -1
+gerobak-1
+  rotate: false
+  xy: 2120, 2256
+  size: 390, 321
+  orig: 1500, 1640
+  offset: 910, 603
+  index: -1
+gerobak-2
+  rotate: false
+  xy: 1693, 794
+  size: 1500, 537
+  orig: 1500, 1640
+  offset: 0, 451
+  index: -1
+gerobak-3
+  rotate: false
+  xy: 481, 2397
+  size: 216, 180
+  orig: 1500, 1640
+  offset: 876, 707
+  index: -1
+ground
+  rotate: false
+  xy: 1502, 0
+  size: 1500, 792
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+lamp
+  rotate: true
+  xy: 0, 2410
+  size: 167, 479
+  orig: 1500, 1640
+  offset: 763, 991
+  index: -1
+lamp_off
+  rotate: false
+  xy: 699, 2356
+  size: 1099, 221
+  orig: 1500, 1640
+  offset: 393, 897
+  index: -1
+meja-kursi-kecap
+  rotate: false
+  xy: 1800, 2323
+  size: 318, 254
+  orig: 1500, 1640
+  offset: 517, 577
+  index: -1
+smoke
+  rotate: false
+  xy: 0, 1901
+  size: 1054, 453
+  orig: 1442, 889
+  offset: 190, 165
+  index: -1
+spotlight
+  rotate: true
+  xy: 0, 1134
+  size: 765, 798
+  orig: 1500, 1640
+  offset: 485, 625
+  index: -1
+
+bonus_anim2.png
+size: 3142,3002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_bg_0005_Layer-0
+  rotate: true
+  xy: 1502, 1502
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 0, 237
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+order-here
+  rotate: false
+  xy: 0, 1879
+  size: 1500, 1123
+  orig: 1500, 1640
+  offset: 0, 517
+  index: -1
+soft-shadow
+  rotate: true
+  xy: 1502, 0
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1

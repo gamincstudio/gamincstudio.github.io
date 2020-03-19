@@ -1,0 +1,13 @@
+
+bg_anim.png
+size: 316,1038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fruit racks
+  rotate: false
+  xy: 2, 2
+  size: 312, 1034
+  orig: 312, 1034
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+bg_anim.png
+size: 3655,1587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_1
+  rotate: false
+  xy: 0, 0
+  size: 1165, 141
+  orig: 1213, 167
+  offset: 8, 22
+  index: -1
+cloud_2
+  rotate: false
+  xy: 1676, 1106
+  size: 1556, 165
+  orig: 1873, 334
+  offset: 114, 72
+  index: -1
+cloud_3
+  rotate: false
+  xy: 1676, 1273
+  size: 1576, 314
+  orig: 1731, 379
+  offset: 94, 18
+  index: -1
+cloud_4
+  rotate: true
+  xy: 3254, 1102
+  size: 485, 372
+  orig: 587, 421
+  offset: 39, 24
+  index: -1
+cloud_5
+  rotate: false
+  xy: 1676, 824
+  size: 1180, 280
+  orig: 1225, 365
+  offset: 45, 21
+  index: -1
+fish_1
+  rotate: true
+  xy: 1167, 60
+  size: 81, 28
+  orig: 83, 30
+  offset: 1, 1
+  index: -1
+fish_2
+  rotate: false
+  xy: 1506, 1069
+  size: 95, 21
+  orig: 98, 23
+  offset: 1, 1
+  index: -1
+fish_3
+  rotate: true
+  xy: 3234, 1181
+  size: 90, 18
+  orig: 91, 18
+  offset: 1, 0
+  index: -1
+fish_4
+  rotate: false
+  xy: 3264, 57
+  size: 391, 139
+  orig: 392, 140
+  offset: 1, 0
+  index: -1
+fog_1
+  rotate: true
+  xy: 3264, 198
+  size: 902, 385
+  orig: 994, 427
+  offset: 83, 2
+  index: -1
+fog_2
+  rotate: false
+  xy: 1506, 302
+  size: 910, 520
+  orig: 1088, 606
+  offset: 141, 2
+  index: -1
+fog_3
+  rotate: false
+  xy: 0, 143
+  size: 1245, 339
+  orig: 1267, 401
+  offset: 0, 0
+  index: -1
+fog_4
+  rotate: false
+  xy: 0, 1092
+  size: 1674, 495
+  orig: 1929, 527
+  offset: 27, 5
+  index: -1
+moon
+  rotate: false
+  xy: 1247, 387
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+moon_glow
+  rotate: false
+  xy: 2418, 21
+  size: 844, 801
+  orig: 1217, 1051
+  offset: 189, 189
+  index: -1
+water-emission
+  rotate: false
+  xy: 0, 484
+  size: 1500, 146
+  orig: 1500, 153
+  offset: 0, 7
+  index: -1
+water-surface
+  rotate: false
+  xy: 0, 632
+  size: 1504, 458
+  orig: 1504, 458
+  offset: 0, 0
+  index: -1

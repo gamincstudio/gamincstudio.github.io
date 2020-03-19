@@ -1,0 +1,118 @@
+
+idol.png
+size: 2958,2612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 540
+  size: 1204, 2070
+  orig: 1392, 2606
+  offset: 83, 536
+  index: -1
+Layer 10
+  rotate: false
+  xy: 2685, 1636
+  size: 194, 353
+  orig: 194, 353
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 1566, 2
+  size: 292, 486
+  orig: 292, 486
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 2054, 22
+  size: 230, 694
+  orig: 232, 697
+  offset: 1, 1
+  index: -1
+Layer 13
+  rotate: true
+  xy: 1208, 1542
+  size: 1068, 1230
+  orig: 1075, 1232
+  offset: 5, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 2440, 2294
+  size: 316, 421
+  orig: 316, 421
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2440, 1991
+  size: 301, 348
+  orig: 304, 350
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: true
+  xy: 2134, 254
+  size: 368, 822
+  orig: 368, 822
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 1603, 296
+  size: 385, 529
+  orig: 397, 532
+  offset: 10, 1
+  index: -1
+Layer 5
+  rotate: true
+  xy: 2440, 1698
+  size: 291, 243
+  orig: 291, 243
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1208, 683
+  size: 857, 1054
+  orig: 857, 1056
+  offset: 0, 2
+  index: -1
+Layer 7
+  rotate: true
+  xy: 845, 20
+  size: 518, 719
+  orig: 518, 719
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 2264, 624
+  size: 916, 684
+  orig: 921, 686
+  offset: 3, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 2, 2
+  size: 536, 841
+  orig: 536, 841
+  offset: 0, 0
+  index: -1
+scream
+  rotate: true
+  xy: 1476, 543
+  size: 138, 125
+  orig: 138, 125
+  offset: 0, 0
+  index: -1
+wink
+  rotate: false
+  xy: 1208, 576
+  size: 266, 105
+  orig: 267, 105
+  offset: 0, 0
+  index: -1

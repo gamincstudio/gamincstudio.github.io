@@ -1,0 +1,179 @@
+
+idol.png
+size: 1938,1891
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GC_0000s_0000_belt
+  rotate: false
+  xy: 648, 1769
+  size: 424, 122
+  orig: 424, 122
+  offset: 0, 0
+  index: -1
+GC_0000s_0001_middle_cloth
+  rotate: true
+  xy: 0, 1550
+  size: 282, 641
+  orig: 282, 641
+  offset: 0, 0
+  index: -1
+GC_0000s_0002_brow
+  rotate: false
+  xy: 126, 1861
+  size: 148, 30
+  orig: 148, 30
+  offset: 0, 0
+  index: -1
+GC_0000s_0003_eye-shut
+  rotate: false
+  xy: 276, 1855
+  size: 128, 36
+  orig: 128, 42
+  offset: 0, 0
+  index: -1
+GC_0000s_0004_eye
+  rotate: false
+  xy: 0, 1863
+  size: 124, 28
+  orig: 124, 28
+  offset: 0, 0
+  index: -1
+GC_0000s_0005_moustache
+  rotate: false
+  xy: 487, 1834
+  size: 159, 57
+  orig: 166, 57
+  offset: 7, 0
+  index: -1
+GC_0000s_0006_mouth-open
+  rotate: false
+  xy: 406, 1839
+  size: 79, 52
+  orig: 82, 52
+  offset: 3, 0
+  index: -1
+GC_0000s_0007_helmet
+  rotate: true
+  xy: 1337, 1676
+  size: 215, 256
+  orig: 215, 256
+  offset: 0, 0
+  index: -1
+GC_0000s_0008_head
+  rotate: true
+  xy: 1074, 1680
+  size: 211, 261
+  orig: 211, 261
+  offset: 0, 0
+  index: -1
+GC_0000s_0009_right_arm_closed
+  rotate: false
+  xy: 0, 0
+  size: 527, 613
+  orig: 552, 613
+  offset: 25, 0
+  index: -1
+GC_0000s_0011_front_armor
+  rotate: true
+  xy: 0, 615
+  size: 494, 572
+  orig: 494, 572
+  offset: 0, 0
+  index: -1
+GC_0000s_0011_torso
+  rotate: true
+  xy: 574, 328
+  size: 500, 605
+  orig: 520, 605
+  offset: 1, 0
+  index: -1
+GC_0000s_0012_back_armor
+  rotate: true
+  xy: 959, 1293
+  size: 381, 633
+  orig: 381, 633
+  offset: 0, 0
+  index: -1
+GC_0000s_0013_left_lower_arm
+  rotate: false
+  xy: 643, 1461
+  size: 314, 306
+  orig: 314, 307
+  offset: 0, 0
+  index: -1
+GC_0000s_0014_left_upper_arm
+  rotate: true
+  xy: 1595, 1657
+  size: 234, 343
+  orig: 234, 343
+  offset: 0, 0
+  index: -1
+GC_0000s_0015_weapon
+  rotate: false
+  xy: 0, 1111
+  size: 615, 437
+  orig: 615, 441
+  offset: 0, 0
+  index: -1
+GC_0000s_0016_cloth_1
+  rotate: false
+  xy: 617, 830
+  size: 1159, 461
+  orig: 1159, 461
+  offset: 0, 0
+  index: -1
+GC_0000s_0019_Cloth_2
+  rotate: true
+  xy: 1181, 319
+  size: 509, 560
+  orig: 509, 560
+  offset: 0, 0
+  index: -1
+
+idol2.png
+size: 1801,1592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GC_0000s_0010_right_arm_open
+  rotate: false
+  xy: 0, 987
+  size: 621, 605
+  orig: 621, 605
+  offset: 0, 0
+  index: -1
+GC_0000s_0017_upper_leg
+  rotate: false
+  xy: 623, 909
+  size: 880, 683
+  orig: 880, 683
+  offset: 0, 0
+  index: -1
+GC_0000s_0018_lower-leg
+  rotate: true
+  xy: 797, 0
+  size: 907, 1004
+  orig: 907, 1004
+  offset: 0, 0
+  index: -1
+radial
+  rotate: true
+  xy: 0, 113
+  size: 794, 795
+  orig: 806, 806
+  offset: 6, 5
+  index: -1
+
+idol3.png
+size: 1884,1087
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GC_0001_Layer-4-Copy-2
+  rotate: false
+  xy: 0, 0
+  size: 1884, 1087
+  orig: 1884, 1087
+  offset: 0, 0
+  index: -1

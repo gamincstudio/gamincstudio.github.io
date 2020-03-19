@@ -1,0 +1,216 @@
+
+idol.png
+size: 2395,1825
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bali_0000_closed-eye
+  rotate: false
+  xy: 0, 26
+  size: 199, 105
+  orig: 199, 123
+  offset: 0, 15
+  index: -1
+Bali_0000s_0000_right-pupil
+  rotate: false
+  xy: 374, 28
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Bali_0000s_0001_right-eye
+  rotate: false
+  xy: 788, 80
+  size: 76, 52
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+Bali_0000s_0002_left-pupil
+  rotate: false
+  xy: 564, 301
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Bali_0000s_0003_left-eye
+  rotate: true
+  xy: 1550, 307
+  size: 97, 67
+  orig: 110, 73
+  offset: 13, 0
+  index: -1
+Bali_0001_right-eyebrow
+  rotate: true
+  xy: 564, 242
+  size: 57, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+Bali_0002_left-eyebrow
+  rotate: true
+  xy: 564, 146
+  size: 94, 25
+  orig: 106, 31
+  offset: 12, 6
+  index: -1
+Bali_0003_headpiece
+  rotate: false
+  xy: 0, 339
+  size: 612, 446
+  orig: 612, 677
+  offset: 0, 231
+  index: -1
+Bali_0004_hp-1
+  rotate: true
+  xy: 2090, 26
+  size: 64, 209
+  orig: 64, 209
+  offset: 0, 0
+  index: -1
+Bali_0005_hp-2
+  rotate: true
+  xy: 201, 61
+  size: 70, 199
+  orig: 70, 199
+  offset: 0, 0
+  index: -1
+Bali_0006_hp-3
+  rotate: true
+  xy: 1902, 24
+  size: 66, 186
+  orig: 66, 186
+  offset: 0, 0
+  index: -1
+Bali_0008_mouth-closed
+  rotate: false
+  xy: 2301, 38
+  size: 80, 52
+  orig: 83, 52
+  offset: 3, 0
+  index: -1
+Bali_0009_face
+  rotate: true
+  xy: 1953, 389
+  size: 388, 385
+  orig: 388, 403
+  offset: 0, 18
+  index: -1
+Bali_0010_back-hairpiece
+  rotate: false
+  xy: 1550, 406
+  size: 85, 101
+  orig: 85, 102
+  offset: 0, 1
+  index: -1
+Bali_0011_bhp-1
+  rotate: true
+  xy: 201, 0
+  size: 59, 171
+  orig: 59, 171
+  offset: 0, 0
+  index: -1
+Bali_0012_bhp-2
+  rotate: true
+  xy: 866, 81
+  size: 51, 156
+  orig: 51, 156
+  offset: 0, 0
+  index: -1
+Bali_0013_bhp-3
+  rotate: true
+  xy: 645, 75
+  size: 57, 141
+  orig: 57, 141
+  offset: 0, 0
+  index: -1
+Bali_0014_cloth-2
+  rotate: true
+  xy: 0, 133
+  size: 204, 401
+  orig: 207, 401
+  offset: 3, 0
+  index: -1
+Bali_0015_left-arm-1
+  rotate: false
+  xy: 403, 18
+  size: 159, 319
+  orig: 183, 333
+  offset: 24, 7
+  index: -1
+Bali_0016_left-arm-2
+  rotate: false
+  xy: 1100, 328
+  size: 448, 179
+  orig: 448, 383
+  offset: 0, 200
+  index: -1
+Bali_0017_left-arm-3
+  rotate: true
+  xy: 1652, 267
+  size: 510, 299
+  orig: 510, 299
+  offset: 0, 0
+  index: -1
+Bali_0018_chest-piece
+  rotate: false
+  xy: 614, 134
+  size: 484, 373
+  orig: 486, 373
+  offset: 2, 0
+  index: -1
+Bali_0019_cloth-1
+  rotate: true
+  xy: 614, 509
+  size: 276, 1036
+  orig: 288, 1037
+  offset: 0, 0
+  index: -1
+Bali_0020_belt
+  rotate: false
+  xy: 1953, 92
+  size: 442, 295
+  orig: 443, 295
+  offset: 0, 0
+  index: -1
+Bali_0020_torso
+  rotate: false
+  xy: 1667, 779
+  size: 666, 1046
+  orig: 748, 1046
+  offset: 82, 0
+  index: -1
+Bali_0021_body-bottom
+  rotate: true
+  xy: 0, 787
+  size: 1038, 1665
+  orig: 1038, 1665
+  offset: 0, 0
+  index: -1
+Bali_0022_right-arm-1
+  rotate: false
+  xy: 1456, 2
+  size: 151, 303
+  orig: 151, 303
+  offset: 0, 0
+  index: -1
+Bali_0023_right-arm-2
+  rotate: false
+  xy: 1100, 58
+  size: 354, 268
+  orig: 354, 268
+  offset: 0, 0
+  index: -1
+Bali_0024_right-arm-3
+  rotate: false
+  xy: 1609, 27
+  size: 291, 238
+  orig: 291, 238
+  offset: 0, 0
+  index: -1
+Penari_0007_mouth-open
+  rotate: false
+  xy: 564, 70
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1

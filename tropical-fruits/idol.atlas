@@ -1,0 +1,173 @@
+
+idol.png
+size: 2010,1809
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_FRUITS2_0000_BACKSKIRT
+  rotate: false
+  xy: 788, 0
+  size: 976, 535
+  orig: 976, 535
+  offset: 0, 0
+  index: -1
+C_Fruit2_0000_Mouth
+  rotate: false
+  xy: 548, 1702
+  size: 124, 107
+  orig: 124, 107
+  offset: 0, 0
+  index: -1
+C_Fruits2_0000_Hand-Right
+  rotate: true
+  xy: 0, 1439
+  size: 287, 511
+  orig: 287, 511
+  offset: 0, 0
+  index: -1
+C_Fruits2_0001_Apel
+  rotate: true
+  xy: 674, 1671
+  size: 138, 165
+  orig: 138, 165
+  offset: 0, 0
+  index: -1
+C_Fruits2_0002_Arm-Right
+  rotate: false
+  xy: 0, 1113
+  size: 506, 324
+  orig: 506, 324
+  offset: 0, 0
+  index: -1
+C_Fruits2_0003_Open-Eye-
+  rotate: false
+  xy: 389, 1728
+  size: 157, 81
+  orig: 157, 81
+  offset: 0, 0
+  index: -1
+C_Fruits2_0004_Eyebrow-
+  rotate: false
+  xy: 0, 1737
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+C_Fruits2_0005_Close-Eye-
+  rotate: false
+  xy: 145, 1734
+  size: 157, 75
+  orig: 157, 75
+  offset: 0, 0
+  index: -1
+C_Fruits2_0006_Muka
+  rotate: true
+  xy: 1562, 1108
+  size: 351, 385
+  orig: 351, 385
+  offset: 0, 0
+  index: -1
+C_Fruits2_0009_Right-Leg
+  rotate: true
+  xy: 0, 537
+  size: 307, 1609
+  orig: 307, 1609
+  offset: 0, 0
+  index: -1
+C_Fruits2_0010_Boobs
+  rotate: true
+  xy: 1727, 1461
+  size: 348, 283
+  orig: 348, 283
+  offset: 0, 0
+  index: -1
+C_Fruits2_0011_Badan
+  rotate: true
+  xy: 0, 19
+  size: 516, 786
+  orig: 516, 786
+  offset: 0, 0
+  index: -1
+C_Fruits2_0012_Body
+  rotate: true
+  xy: 508, 969
+  size: 368, 437
+  orig: 368, 437
+  offset: 0, 0
+  index: -1
+C_Fruits2_0013_Back-Cloth
+  rotate: false
+  xy: 1268, 1553
+  size: 457, 256
+  orig: 457, 256
+  offset: 0, 0
+  index: -1
+C_Fruits2_0014_Hair
+  rotate: false
+  xy: 947, 846
+  size: 563, 399
+  orig: 563, 399
+  offset: 0, 0
+  index: -1
+C_Fruits2_0016_Hat
+  rotate: false
+  xy: 1057, 1643
+  size: 209, 166
+  orig: 209, 166
+  offset: 0, 0
+  index: -1
+C_Fruits2_0017_Manggis
+  rotate: true
+  xy: 304, 1733
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+C_Fruits2_0018_Pineapple
+  rotate: true
+  xy: 841, 1661
+  size: 148, 214
+  orig: 148, 214
+  offset: 0, 0
+  index: -1
+C_Fruits2_0019_Arm--Left
+  rotate: false
+  xy: 513, 1339
+  size: 465, 320
+  orig: 465, 320
+  offset: 0, 0
+  index: -1
+C_Fruits2_0020_Hand-Left
+  rotate: true
+  xy: 980, 1247
+  size: 304, 580
+  orig: 304, 580
+  offset: 0, 0
+  index: -1
+
+idol2.png
+size: 1925,1170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Fruits2_0007_Skirt
+  rotate: false
+  xy: 0, 198
+  size: 945, 972
+  orig: 945, 972
+  offset: 0, 0
+  index: -1
+C_Fruits2_0008_Left-Leg
+  rotate: false
+  xy: 947, 597
+  size: 978, 573
+  orig: 978, 573
+  offset: 0, 0
+  index: -1
+C_Fruits2_0015_Hat
+  rotate: false
+  xy: 947, 0
+  size: 656, 595
+  orig: 656, 595
+  offset: 0, 0
+  index: -1

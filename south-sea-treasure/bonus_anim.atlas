@@ -1,0 +1,62 @@
+
+bonus_anim.png
+size: 3626,1505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fog
+  rotate: true
+  xy: 2270, 5
+  size: 1500, 433
+  orig: 1500, 617
+  offset: 0, 86
+  index: -1
+moon
+  rotate: false
+  xy: 2705, 563
+  size: 715, 714
+  orig: 1038, 896
+  offset: 166, 163
+  index: -1
+particle_1
+  rotate: true
+  xy: 794, 4
+  size: 1501, 845
+  orig: 1501, 845
+  offset: 0, 0
+  index: -1
+particle_2
+  rotate: true
+  xy: 0, 0
+  size: 1505, 792
+  orig: 1505, 836
+  offset: 0, 0
+  index: -1
+wave_1
+  rotate: true
+  xy: 1641, 5
+  size: 1500, 627
+  orig: 1500, 627
+  offset: 0, 0
+  index: -1
+wave_2
+  rotate: false
+  xy: 2705, 395
+  size: 710, 166
+  orig: 710, 166
+  offset: 0, 0
+  index: -1
+wave_3
+  rotate: true
+  xy: 3422, 653
+  size: 624, 201
+  orig: 624, 201
+  offset: 0, 0
+  index: -1
+wave_4
+  rotate: false
+  xy: 2705, 1279
+  size: 921, 226
+  orig: 921, 226
+  offset: 0, 0
+  index: -1

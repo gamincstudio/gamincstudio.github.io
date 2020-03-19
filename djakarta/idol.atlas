@@ -1,0 +1,160 @@
+
+idol.png
+size: 3140,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_belt
+  rotate: true
+  xy: 2770, 297
+  size: 248, 86
+  orig: 248, 86
+  offset: 0, 0
+  index: -1
+1_body_lower
+  rotate: false
+  xy: 2886, 300
+  size: 254, 245
+  orig: 254, 258
+  offset: 0, 0
+  index: -1
+1_body_upper
+  rotate: false
+  xy: 2628, 5
+  size: 256, 258
+  orig: 256, 262
+  offset: 0, 4
+  index: -1
+1_eye-closed
+  rotate: true
+  xy: 1948, 38
+  size: 168, 51
+  orig: 169, 52
+  offset: 1, 0
+  index: -1
+1_eye-open
+  rotate: true
+  xy: 1841, 32
+  size: 169, 52
+  orig: 169, 52
+  offset: 0, 0
+  index: -1
+1_garment
+  rotate: false
+  xy: 1606, 31
+  size: 233, 170
+  orig: 244, 171
+  offset: 3, 0
+  index: -1
+1_hair
+  rotate: false
+  xy: 0, 9
+  size: 744, 536
+  orig: 1399, 1280
+  offset: 172, 661
+  index: -1
+1_hand_L
+  rotate: true
+  xy: 2053, 0
+  size: 91, 280
+  orig: 91, 280
+  offset: 0, 0
+  index: -1
+1_hand_R
+  rotate: true
+  xy: 2335, 1
+  size: 90, 276
+  orig: 90, 277
+  offset: 0, 0
+  index: -1
+1_head
+  rotate: false
+  xy: 1606, 203
+  size: 282, 342
+  orig: 282, 342
+  offset: 0, 0
+  index: -1
+1_moustache
+  rotate: false
+  xy: 1606, 0
+  size: 108, 29
+  orig: 108, 29
+  offset: 0, 0
+  index: -1
+2_belt
+  rotate: false
+  xy: 2886, 0
+  size: 240, 83
+  orig: 240, 83
+  offset: 0, 0
+  index: -1
+2_body_lower
+  rotate: false
+  xy: 2886, 85
+  size: 254, 213
+  orig: 254, 213
+  offset: 0, 0
+  index: -1
+2_body_upper
+  rotate: true
+  xy: 2546, 265
+  size: 280, 222
+  orig: 281, 237
+  offset: 1, 0
+  index: -1
+2_eye-closed
+  rotate: true
+  xy: 2001, 38
+  size: 168, 50
+  orig: 169, 51
+  offset: 0, 0
+  index: -1
+2_eye-open
+  rotate: true
+  xy: 1895, 37
+  size: 169, 51
+  orig: 169, 51
+  offset: 0, 0
+  index: -1
+2_garment
+  rotate: false
+  xy: 2174, 248
+  size: 272, 297
+  orig: 272, 299
+  offset: 0, 2
+  index: -1
+2_garment-2
+  rotate: false
+  xy: 2053, 93
+  size: 297, 113
+  orig: 298, 113
+  offset: 0, 0
+  index: -1
+2_hair
+  rotate: false
+  xy: 746, 13
+  size: 858, 532
+  orig: 858, 532
+  offset: 0, 0
+  index: -1
+2_hand_L
+  rotate: false
+  xy: 2448, 259
+  size: 96, 286
+  orig: 132, 304
+  offset: 24, 11
+  index: -1
+2_hand_R
+  rotate: true
+  xy: 2352, 145
+  size: 101, 274
+  orig: 131, 310
+  offset: 21, 16
+  index: -1
+2_head
+  rotate: false
+  xy: 1890, 208
+  size: 282, 337
+  orig: 282, 337
+  offset: 0, 0
+  index: -1

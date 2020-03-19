@@ -1,0 +1,34 @@
+
+bg_anim.png
+size: 2959,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+floating01
+  rotate: true
+  xy: 2, 107
+  size: 547, 1661
+  orig: 547, 1661
+  offset: 0, 0
+  index: -1
+floating02
+  rotate: true
+  xy: 1665, 2
+  size: 652, 868
+  orig: 652, 868
+  offset: 0, 0
+  index: -1
+floating03
+  rotate: false
+  xy: 2535, 137
+  size: 422, 517
+  orig: 422, 517
+  offset: 0, 0
+  index: -1
+sparks
+  rotate: false
+  xy: 2, 77
+  size: 28, 28
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
