@@ -1,0 +1,159 @@
+
+bg_anim.png
+size: 1743,1466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0000s_0000_Branch_bonus
+  rotate: false
+  xy: 2, 512
+  size: 1500, 448
+  orig: 1500, 1640
+  offset: 0, 590
+  index: -1
+_0000s_0000s_0002_Branch-1
+  rotate: true
+  xy: 1334, 1097
+  size: 367, 407
+  orig: 1500, 1640
+  offset: 1133, 924
+  index: -1
+_0000s_0000s_0003_Bamboo2
+  rotate: true
+  xy: 26, 1219
+  size: 245, 1306
+  orig: 1500, 1640
+  offset: 92, 334
+  index: -1
+_0000s_0000s_0004_Bamboo1
+  rotate: true
+  xy: 2, 962
+  size: 255, 1264
+  orig: 1500, 1640
+  offset: 1245, 376
+  index: -1
+_0001s_0000_Layer-15-copy-2
+  rotate: false
+  xy: 2, 2
+  size: 1330, 508
+  orig: 1500, 1640
+  offset: 124, 345
+  index: -1
+dust1
+  rotate: false
+  xy: 2, 1442
+  size: 22, 22
+  orig: 28, 28
+  offset: 3, 3
+  index: -1
+
+bg_anim2.png
+size: 1504,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0001s_0001_Layer-7
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+
+bg_anim3.png
+size: 1504,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0001s_0004_Layer-18
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+
+bg_anim4.png
+size: 1504,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0002_foreground_bonus.png
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+
+bg_anim5.png
+size: 1504,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0005_Layer-2
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+
+bg_anim6.png
+size: 1504,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0000s_0001_Branch-2
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+
+bg_anim7.png
+size: 1504,1417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0003_Layer-6
+  rotate: false
+  xy: 2, 2
+  size: 1500, 1413
+  orig: 1500, 1640
+  offset: 0, 227
+  index: -1
+
+bg_anim8.png
+size: 1807,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0001s_0003_Layer-16
+  rotate: false
+  xy: 2, 2
+  size: 1065, 1640
+  orig: 1500, 1640
+  offset: 219, 0
+  index: -1
+daun_bg
+  rotate: true
+  xy: 1069, 142
+  size: 1500, 736
+  orig: 1500, 1653
+  offset: 0, 917
+  index: -1
+
+bg_anim9.png
+size: 1069,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0004_Layer-12
+  rotate: false
+  xy: 2, 2
+  size: 1065, 1640
+  orig: 1500, 1640
+  offset: 219, 0
+  index: -1
