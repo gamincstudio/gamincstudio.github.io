@@ -1,0 +1,229 @@
+
+idol.png
+size: 3203,2444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jump Pose PNG/Untitled-3_0000s_0009_Right-Leg
+  rotate: false
+  xy: 2441, 1326
+  size: 645, 525
+  orig: 649, 548
+  offset: 4, 0
+  index: -1
+Jump Pose PNG/Untitled-3_0000s_0010_Palm-Hand
+  rotate: true
+  xy: 2851, 2188
+  size: 256, 352
+  orig: 256, 352
+  offset: 0, 0
+  index: -1
+Jump Pose PNG/Untitled-3_0000s_0011_Left-Arm
+  rotate: true
+  xy: 1025, 2256
+  size: 188, 207
+  orig: 189, 207
+  offset: 1, 0
+  index: -1
+Jump Pose PNG/Untitled-3_0000s_0012_Left-Arm-2
+  rotate: true
+  xy: 2227, 2212
+  size: 232, 321
+  orig: 232, 323
+  offset: 0, 1
+  index: -1
+Jump Pose PNG/spotlight
+  rotate: true
+  xy: 924, 957
+  size: 500, 1000
+  orig: 500, 1000
+  offset: 0, 0
+  index: -1
+Main Pose PNG/1
+  rotate: true
+  xy: 710, 1986
+  size: 248, 815
+  orig: 272, 844
+  offset: 17, 7
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0000_Open-Mouth
+  rotate: false
+  xy: 639, 2378
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0001_Closed-Mouth
+  rotate: false
+  xy: 543, 2390
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0002_Closed-Eye
+  rotate: false
+  xy: 185, 2391
+  size: 177, 53
+  orig: 177, 53
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0003_Open-Eye
+  rotate: false
+  xy: 364, 2391
+  size: 177, 53
+  orig: 177, 53
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0004_Eye-Brow
+  rotate: false
+  xy: 0, 2394
+  size: 183, 50
+  orig: 183, 50
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0005_Head
+  rotate: true
+  xy: 473, 1636
+  size: 348, 474
+  orig: 348, 474
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0006_Hair
+  rotate: true
+  xy: 391, 2064
+  size: 312, 317
+  orig: 312, 317
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0007_Bandana
+  rotate: false
+  xy: 2550, 2208
+  size: 299, 236
+  orig: 299, 236
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0008_Palm-Left
+  rotate: false
+  xy: 1427, 2236
+  size: 274, 208
+  orig: 274, 216
+  offset: 0, 8
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0009_Arm-Left
+  rotate: false
+  xy: 0, 1726
+  size: 471, 336
+  orig: 471, 336
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0010_Palm-Right
+  rotate: false
+  xy: 1234, 2254
+  size: 191, 190
+  orig: 191, 190
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0011_Axe
+  rotate: true
+  xy: 1451, 1459
+  size: 392, 988
+  orig: 392, 988
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0012_Skirt
+  rotate: false
+  xy: 0, 534
+  size: 693, 569
+  orig: 693, 569
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0013_Left-Leg
+  rotate: true
+  xy: 0, 1105
+  size: 529, 922
+  orig: 529, 922
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0014_Left-Leg
+  rotate: true
+  xy: 1527, 1914
+  size: 299, 502
+  orig: 299, 502
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0015_Left-Foot
+  rotate: true
+  xy: 0, 2112
+  size: 277, 389
+  orig: 277, 389
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0016_Right-Leg
+  rotate: true
+  xy: 1926, 778
+  size: 546, 804
+  orig: 546, 804
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0017_Right-Leg
+  rotate: true
+  xy: 1703, 2215
+  size: 229, 522
+  orig: 230, 524
+  offset: 1, 2
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0018_Right-Foot
+  rotate: false
+  xy: 2031, 1895
+  size: 366, 315
+  orig: 366, 315
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0019_Body
+  rotate: true
+  xy: 1365, 0
+  size: 776, 783
+  orig: 799, 799
+  offset: 23, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0020_Back-Skirt
+  rotate: false
+  xy: 695, 307
+  size: 668, 648
+  orig: 668, 648
+  offset: 0, 0
+  index: -1
+Main Pose PNG/Untitled-1_0000s_0021_Right-Arm
+  rotate: true
+  xy: 2399, 1853
+  size: 333, 567
+  orig: 347, 569
+  offset: 0, 0
+  index: -1
+Transition Pose PNG/Untitled-2_0000s_0008_Layer-147
+  rotate: false
+  xy: 734, 2316
+  size: 289, 128
+  orig: 291, 128
+  offset: 1, 0
+  index: -1
+Transition Pose PNG/Untitled-2_0000s_0021_Right-Arm
+  rotate: false
+  xy: 949, 1543
+  size: 500, 441
+  orig: 500, 447
+  offset: 0, 0
+  index: -1
+
+idol2.png
+size: 3000,2000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jump Pose PNG/media_militia_particles004
+  rotate: false
+  xy: 0, 0
+  size: 3000, 2000
+  orig: 3000, 2000
+  offset: 0, 0
+  index: -1
