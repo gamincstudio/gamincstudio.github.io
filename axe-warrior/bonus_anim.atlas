@@ -1,0 +1,89 @@
+
+bonus_anim.png
+size: 3146,2176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0000s_0000_Branch_bonus
+  rotate: false
+  xy: 2, 1469
+  size: 1500, 448
+  orig: 1500, 1640
+  offset: 0, 590
+  index: -1
+_0000s_0000s_0002_Branch-1
+  rotate: true
+  xy: 2600, 1807
+  size: 367, 407
+  orig: 1500, 1640
+  offset: 1133, 924
+  index: -1
+_0000s_0000s_0003_Bamboo2
+  rotate: true
+  xy: 26, 1929
+  size: 245, 1306
+  orig: 1500, 1640
+  offset: 92, 334
+  index: -1
+_0000s_0000s_0004_Bamboo1
+  rotate: true
+  xy: 1334, 1919
+  size: 255, 1264
+  orig: 1500, 1640
+  offset: 1245, 376
+  index: -1
+_0000s_0003_Layer-6
+  rotate: false
+  xy: 2, 54
+  size: 1500, 1413
+  orig: 1500, 1640
+  offset: 0, 227
+  index: -1
+_0000s_0004_Layer-12
+  rotate: true
+  xy: 1504, 2
+  size: 1065, 1640
+  orig: 1500, 1640
+  offset: 219, 0
+  index: -1
+daun_bg
+  rotate: false
+  xy: 1504, 1069
+  size: 1500, 736
+  orig: 1500, 1653
+  offset: 0, 917
+  index: -1
+dust1
+  rotate: false
+  xy: 2, 2152
+  size: 22, 22
+  orig: 28, 28
+  offset: 3, 3
+  index: -1
+
+bonus_anim2.png
+size: 3146,3006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000s_0000s_0001_Branch-2
+  rotate: true
+  xy: 2, 2
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+_0000s_0002_foreground_bonus.png
+  rotate: true
+  xy: 2, 1504
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+_0000s_0005_Layer-2
+  rotate: false
+  xy: 1644, 1364
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
