@@ -132,7 +132,7 @@ GC_0000s_0019_Cloth_2
   index: -1
 
 idol2.png
-size: 1801,1592
+size: 1503,1592
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -152,17 +152,10 @@ GC_0000s_0017_upper_leg
   index: -1
 GC_0000s_0018_lower-leg
   rotate: true
-  xy: 797, 0
+  xy: 0, 0
   size: 907, 1004
   orig: 907, 1004
   offset: 0, 0
-  index: -1
-radial
-  rotate: true
-  xy: 0, 113
-  size: 794, 795
-  orig: 806, 806
-  offset: 6, 5
   index: -1
 
 idol3.png
