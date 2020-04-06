@@ -1,47 +1,47 @@
 
 bg_anim.png
-size: 1802,975
+size: 949,1803
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 cloud_1
-  rotate: true
-  xy: 1502, 230
+  rotate: false
+  xy: 0, 1503
   size: 745, 300
   orig: 745, 306
   offset: 0, 6
   index: -1
 cloud_1-freegame
-  rotate: true
-  xy: 1150, 26
+  rotate: false
+  xy: 485, 1253
   size: 464, 248
   orig: 464, 257
   offset: 0, 8
   index: -1
 cloud_2
   rotate: false
-  xy: 693, 164
-  size: 455, 326
+  xy: 485, 925
+  size: 454, 326
   orig: 456, 348
-  offset: 1, 2
+  offset: 2, 2
   index: -1
 cloud_2-freegame
-  rotate: true
-  xy: 1400, 0
+  rotate: false
+  xy: 485, 0
   size: 228, 231
   orig: 228, 231
   offset: 0, 0
   index: -1
 cloud_3
-  rotate: false
-  xy: 0, 65
-  size: 691, 425
+  rotate: true
+  xy: 485, 233
+  size: 690, 425
   orig: 694, 440
   offset: 0, 13
   index: -1
 tree_maingame
-  rotate: false
-  xy: 0, 492
+  rotate: true
+  xy: 0, 1
   size: 1500, 483
   orig: 1500, 483
   offset: 0, 0
