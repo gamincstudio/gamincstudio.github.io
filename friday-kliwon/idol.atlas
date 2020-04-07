@@ -1,195 +1,195 @@
 
 idol.png
-size: 3697,2049
+size: 2016,952
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Character-ghost_0000_FRONT-BANG
-  rotate: true
-  xy: 2749, 411
-  size: 685, 477
-  orig: 938, 1300
-  offset: 168, 822
+  rotate: false
+  xy: 943, 23
+  size: 343, 239
+  orig: 469, 650
+  offset: 84, 411
   index: -1
 Character-ghost_0000s_0000_RIGHT-SLEVE-FRONT
-  rotate: false
-  xy: 2161, 5
-  size: 246, 988
-  orig: 434, 994
-  offset: 188, 0
+  rotate: true
+  xy: 1419, 599
+  size: 123, 494
+  orig: 217, 497
+  offset: 94, 0
   index: -1
 Character-ghost_0000s_0001_RIGHT-HAND
   rotate: false
-  xy: 3266, 1180
-  size: 390, 315
-  orig: 390, 315
+  xy: 1479, 31
+  size: 195, 157
+  orig: 195, 157
   offset: 0, 0
   index: -1
 Character-ghost_0000s_0002_RIGHT-SLEEVE-BACK
-  rotate: false
-  xy: 2272, 1179
-  size: 310, 870
-  orig: 410, 994
-  offset: 93, 0
+  rotate: true
+  xy: 1361, 305
+  size: 156, 435
+  orig: 205, 497
+  offset: 46, 0
   index: -1
 Character-ghost_0001_CHEST-SLEEVE
   rotate: false
-  xy: 3228, 501
-  size: 456, 329
-  orig: 456, 348
+  xy: 564, 10
+  size: 228, 165
+  orig: 228, 174
   offset: 0, 0
   index: -1
 Character-ghost_0002_CHEST
-  rotate: false
-  xy: 3358, 257
-  size: 339, 242
-  orig: 347, 243
-  offset: 5, 1
+  rotate: true
+  xy: 794, 5
+  size: 170, 122
+  orig: 173, 122
+  offset: 2, 0
   index: -1
 Character-ghost_0003_RIGHT-LOWER-DRESS
-  rotate: false
-  xy: 1159, 925
-  size: 656, 1124
-  orig: 656, 1124
+  rotate: true
+  xy: 0, 11
+  size: 328, 562
+  orig: 328, 562
   offset: 0, 0
   index: -1
 Character-ghost_0004_RIGHT-LEG
-  rotate: false
-  xy: 1199, 7
-  size: 267, 916
-  orig: 270, 921
-  offset: 2, 4
+  rotate: true
+  xy: 1361, 463
+  size: 134, 458
+  orig: 135, 461
+  offset: 1, 2
   index: -1
 Character-ghost_0005_LOWER-TORSO
   rotate: false
-  xy: 3266, 1497
-  size: 404, 552
-  orig: 404, 671
+  xy: 1798, 63
+  size: 202, 276
+  orig: 202, 335
   offset: 0, 0
   index: -1
 Character-ghost_0006_HAIR
-  rotate: true
-  xy: 1468, 46
-  size: 877, 691
-  orig: 942, 1310
-  offset: 0, 619
+  rotate: false
+  xy: 978, 606
+  size: 439, 346
+  orig: 471, 655
+  offset: 0, 309
   index: -1
 Character-ghost_0007_EYE-CLOSED
-  rotate: false
-  xy: 1895, 937
-  size: 157, 56
-  orig: 159, 57
-  offset: 2, 0
+  rotate: true
+  xy: 943, 273
+  size: 78, 28
+  orig: 79, 28
+  offset: 1, 0
   index: -1
 Character-ghost_0008_EYE-OPEN
-  rotate: false
-  xy: 1468, 3
-  size: 138, 41
-  orig: 149, 62
-  offset: 5, 4
+  rotate: true
+  xy: 1798, 391
+  size: 70, 21
+  orig: 75, 31
+  offset: 2, 2
   index: -1
 Character-ghost_0009_EYEBROW
-  rotate: false
-  xy: 0, 5
-  size: 118, 27
-  orig: 148, 40
-  offset: 15, 6
+  rotate: true
+  xy: 564, 279
+  size: 60, 14
+  orig: 74, 20
+  offset: 7, 3
   index: -1
 Character-ghost_0010_HEAD
-  rotate: true
-  xy: 2517, 1008
-  size: 169, 230
-  orig: 176, 234
-  offset: 3, 0
+  rotate: false
+  xy: 1917, 483
+  size: 85, 115
+  orig: 88, 117
+  offset: 1, 0
   index: -1
 Character-ghost_0010_HEAD2
-  rotate: true
-  xy: 2272, 1001
-  size: 176, 243
-  orig: 176, 284
-  offset: 0, 41
+  rotate: false
+  xy: 1915, 600
+  size: 88, 122
+  orig: 88, 142
+  offset: 0, 20
   index: -1
 Character-ghost_0011_LEFT-LOWER-DRESS
-  rotate: true
-  xy: 0, 34
-  size: 790, 1197
-  orig: 875, 1197
-  offset: 85, 0
+  rotate: false
+  xy: 581, 353
+  size: 395, 599
+  orig: 437, 599
+  offset: 42, 0
   index: -1
 Character-ghost_0012_UPPER-TORSO
   rotate: false
-  xy: 3262, 832
-  size: 378, 346
-  orig: 423, 350
-  offset: 32, 0
+  xy: 1288, 15
+  size: 189, 173
+  orig: 212, 175
+  offset: 16, 0
   index: -1
 Character-ghost_0014_LEFT-SLEEVE-FRONT
-  rotate: false
-  xy: 2409, 138
-  size: 226, 861
-  orig: 337, 861
+  rotate: true
+  xy: 1361, 190
+  size: 113, 431
+  orig: 168, 431
   offset: 0, 0
   index: -1
 Character-ghost_0015_LEFT-HAND
-  rotate: false
-  xy: 3358, 37
-  size: 326, 218
-  orig: 328, 220
-  offset: 2, 0
+  rotate: true
+  xy: 1676, 25
+  size: 163, 109
+  orig: 164, 110
+  offset: 1, 0
   index: -1
 Character-ghost_0016_LEFT-SLEEVE-BACK
   rotate: true
-  xy: 2637, 61
-  size: 348, 719
-  orig: 362, 828
-  offset: 14, 0
+  xy: 581, 177
+  size: 174, 360
+  orig: 181, 414
+  offset: 7, 0
   index: -1
 Character-ghost_0017_LEFT-LEG
-  rotate: true
-  xy: 2749, 1098
-  size: 188, 511
-  orig: 188, 1510
+  rotate: false
+  xy: 1821, 341
+  size: 94, 256
+  orig: 94, 755
   offset: 0, 0
   index: -1
 Character-ghost_0018_BACK-DRESS
   rotate: false
-  xy: 0, 826
-  size: 1157, 1223
-  orig: 1193, 1223
+  xy: 0, 341
+  size: 579, 611
+  orig: 596, 611
   offset: 0, 0
   index: -1
 Character-ghost_0019_BACK-HAIR
-  rotate: true
-  xy: 2584, 1288
-  size: 761, 680
-  orig: 940, 1310
-  offset: 62, 630
+  rotate: false
+  xy: 978, 264
+  size: 381, 340
+  orig: 470, 655
+  offset: 31, 315
   index: -1
 bg_0002s_0000_bat
   rotate: true
-  xy: 1817, 936
-  size: 57, 76
-  orig: 57, 76
+  xy: 1479, 0
+  size: 29, 38
+  orig: 29, 38
   offset: 0, 0
   index: -1
 bg_0002s_0001_wing-1
-  rotate: true
-  xy: 2409, 0
-  size: 136, 69
-  orig: 136, 69
+  rotate: false
+  xy: 1288, 228
+  size: 68, 34
+  orig: 68, 34
   offset: 0, 0
   index: -1
 bg_0002s_0002_wing-2
-  rotate: true
-  xy: 2480, 0
-  size: 136, 69
-  orig: 136, 69
+  rotate: false
+  xy: 1948, 918
+  size: 68, 34
+  orig: 68, 34
   offset: 0, 0
   index: -1
 smoke
-  rotate: true
-  xy: 1817, 995
-  size: 1054, 453
-  orig: 1442, 889
-  offset: 190, 165
+  rotate: false
+  xy: 1419, 724
+  size: 527, 228
+  orig: 721, 445
+  offset: 95, 82
   index: -1
