@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "EOla+ZvmpZGSpb+TyjQGiU1WojE",
+	"hash": "kN9RiKtC9RrJWQ/5nWJ41SWIses",
 	"spine": "3.8.72",
-	"x": -85.79,
-	"y": -2124.94,
-	"width": 4126.31,
-	"height": 2127.16,
+	"x": 2.1,
+	"y": -1280.73,
+	"width": 3001.29,
+	"height": 1280.16,
 	"images": "./bg/",
 	"audio": ""
 },
@@ -22,7 +22,7 @@
 	{ "name": "bone9", "parent": "bone", "x": 899.6, "y": 374.43 }
 ],
 "slots": [
-	{ "name": "bg2", "bone": "root", "attachment": "bg" },
+	{ "name": "clip", "bone": "root", "attachment": "clip" },
 	{ "name": "_bg_0005_Layer-0", "bone": "bone2" },
 	{ "name": "_bg_0000_light", "bone": "bone3", "attachment": "_bg_0000_light", "blend": "additive" },
 	{ "name": "_bg_0004_Layer-2", "bone": "root", "attachment": "_bg_0004_Layer-1" },
@@ -42,17 +42,18 @@
 	{ "name": "lamp_off", "bone": "bone7", "attachment": "lamp_off" },
 	{ "name": "bulb", "bone": "bone8", "attachment": "bulb", "blend": "additive" },
 	{ "name": "unlit", "bone": "root" },
-	{ "name": "_bg_0005_Layer-01", "bone": "root" }
+	{ "name": "_bg_0005_Layer-01", "bone": "root" },
+	{ "name": "1", "bone": "root" }
 ],
 "skins": [
 	{
 		"name": "default",
 		"attachments": {
 			"bloom2": {
-				"bloom2": { "x": -907.32, "y": 588.71, "width": 3000, "height": 1280 }
+				"bloom2": { "x": -903.39, "y": 596.56, "width": 3000, "height": 1280 }
 			},
 			"bg": {
-				"bg": { "x": 28.97, "y": -644.52, "width": 3000, "height": 1280 }
+				"bg": { "x": 28.93, "y": -643.08, "width": 3000, "height": 1280 }
 			},
 			"ground": {
 				"ground": { "x": 1498.61, "y": -643.06, "width": 3000, "height": 1280 }
@@ -61,31 +62,37 @@
 				"lamp_off": { "x": -91.34, "y": 473.73, "width": 3000, "height": 1280 }
 			},
 			"bulb": {
-				"bulb": { "x": -57.55, "y": 431.67, "width": 3000, "height": 1280 }
+				"bulb": { "x": -52.31, "y": 431.67, "width": 3000, "height": 1280 }
 			},
 			"meja-kursi-kecap": {
 				"meja-kursi-kecap": { "x": 1498.43, "y": -640.18, "width": 3000, "height": 1280 }
 			},
-			"bg2": {
-				"bg": { "x": 1499.83, "y": -641.59, "width": 3000, "height": 1280 }
-			},
 			"order-here": {
 				"order-here": { "x": 1500.13, "y": -639.51, "width": 3000, "height": 1280 }
 			},
+			"clip": {
+				"clip": {
+					"type": "clipping",
+					"end": "clip",
+					"vertexCount": 4,
+					"vertices": [ 2.1, -0.56, 2.14, -1280.29, 3003.39, -1280.73, 3001.88, -1.11 ],
+					"color": "ce3a3aff"
+				}
+			},
 			"_bg_0000_light": {
-				"_bg_0000_light": { "x": -913.27, "y": 852.9, "width": 2057, "height": 878 }
+				"_bg_0000_light": { "x": -909.45, "y": 860.53, "width": 2057, "height": 878 }
 			},
 			"spotlight": {
-				"spotlight": { "x": -60.6, "y": 263.44, "width": 3000, "height": 1280 }
+				"spotlight": { "x": -53.26, "y": 263.44, "width": 3000, "height": 1280 }
 			},
 			"_bg_0004_Layer-2": {
-				"_bg_0004_Layer-1": { "x": 1493.21, "y": -764.38, "width": 2413, "height": 1030 }
+				"_bg_0004_Layer-1": { "x": 1336.14, "y": -764.38, "width": 2413, "height": 1030 }
 			},
 			"lamp": {
-				"lamp": { "x": 1494.55, "y": -639.57, "width": 3000, "height": 1280 }
+				"lamp": { "x": 1505.95, "y": -642.96, "width": 3000, "height": 1280 }
 			},
 			"soft-shadow": {
-				"soft-shadow": { "x": 1499.37, "y": -640.11, "width": 3000, "height": 1280 }
+				"soft-shadow": { "x": 1500.42, "y": -639.49, "width": 3000, "height": 1280 }
 			},
 			"smoke": {
 				"smoke": {
@@ -99,10 +106,10 @@
 				}
 			},
 			"gerobak-1": {
-				"gerobak-1": { "x": 1499.39, "y": -637.78, "width": 3000, "height": 1280 }
+				"gerobak-1": { "x": 1498.69, "y": -640.59, "width": 3000, "height": 1280 }
 			},
 			"gerobak-2": {
-				"gerobak-2": { "x": 1496.97, "y": -641.28, "width": 3000, "height": 1280 }
+				"gerobak-2": { "x": 1499.69, "y": -641.28, "width": 3000, "height": 1280 }
 			},
 			"gerobak-3": {
 				"gerobak-3": { "x": 1449.03, "y": -711.96, "width": 3000, "height": 1280 }
@@ -118,18 +125,18 @@
 					{ "color": "ffffff00" }
 				]
 			},
-			"_bg_0005_Layer-0": {
-				"color": [
-					{ "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 2, "color": "838d79ff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 4, "color": "ffffffff" }
-				]
-			},
 			"bloom2": {
 				"color": [
 					{ "color": "ffffff00" },
 					{ "time": 2, "color": "ffffffff" },
 					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"_bg_0005_Layer-0": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "color": "838d79ff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "color": "ffffffff" }
 				]
 			},
 			"bloom1": {
