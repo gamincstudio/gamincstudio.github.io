@@ -1,89 +1,82 @@
 
 bg_anim.png
-size: 3560,1704
+size: 3469,1508
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-1 (2)
-  rotate: true
-  xy: 1583, 204
-  size: 1500, 640
-  orig: 1500, 640
-  offset: 0, 0
-  index: -1
 cloud_1
-  rotate: true
-  xy: 980, 198
+  rotate: false
+  xy: 0, 0
   size: 1165, 141
   orig: 1213, 167
   offset: 8, 22
   index: -1
 cloud_2
-  rotate: true
-  xy: 813, 148
+  rotate: false
+  xy: 912, 530
   size: 1556, 165
   orig: 1873, 334
   offset: 114, 72
   index: -1
 cloud_3
-  rotate: true
-  xy: 497, 128
+  rotate: false
+  xy: 846, 697
   size: 1576, 314
   orig: 1731, 379
   offset: 94, 18
   index: -1
 fog_1
   rotate: false
-  xy: 2315, 66
+  xy: 912, 143
   size: 902, 385
   orig: 994, 427
   offset: 83, 2
   index: -1
 fog_2
-  rotate: true
-  xy: 2225, 453
+  rotate: false
+  xy: 0, 175
   size: 910, 520
   orig: 1088, 606
   offset: 141, 2
   index: -1
 fog_3
-  rotate: false
-  xy: 2315, 1365
+  rotate: true
+  xy: 3130, 263
   size: 1245, 339
   orig: 1267, 401
   offset: 0, 0
   index: -1
 fog_4
-  rotate: true
-  xy: 0, 30
+  rotate: false
+  xy: 846, 1013
   size: 1674, 495
   orig: 1929, 527
   offset: 27, 5
   index: -1
 moon
   rotate: false
-  xy: 497, 31
+  xy: 3130, 166
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 moon_glow
-  rotate: true
-  xy: 2747, 519
+  rotate: false
+  xy: 0, 707
   size: 844, 801
   orig: 1217, 1051
   offset: 189, 189
   index: -1
 water-emission
-  rotate: false
-  xy: 813, 0
+  rotate: true
+  xy: 2982, 8
   size: 1500, 146
   orig: 1500, 153
   offset: 0, 7
   index: -1
 water-surface
   rotate: true
-  xy: 1123, 200
+  xy: 2522, 4
   size: 1504, 458
   orig: 1504, 458
   offset: 0, 0
