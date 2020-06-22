@@ -1,0 +1,145 @@
+
+bg_anim.png
+size: 3366,3236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus-back
+  rotate: false
+  xy: 2, 2223
+  size: 1500, 395
+  orig: 1500, 406
+  offset: 0, 10
+  index: -1
+bonus-city
+  rotate: false
+  xy: 2059, 2989
+  size: 586, 245
+  orig: 586, 245
+  offset: 0, 0
+  index: -1
+freegame_city
+  rotate: false
+  xy: 2059, 2989
+  size: 586, 245
+  orig: 586, 245
+  offset: 0, 0
+  index: -1
+bonus-cloud-1
+  rotate: false
+  xy: 2647, 2984
+  size: 717, 250
+  orig: 717, 253
+  offset: 0, 1
+  index: -1
+bonus-cloud-2
+  rotate: false
+  xy: 1358, 2620
+  size: 792, 367
+  orig: 794, 406
+  offset: 0, 38
+  index: -1
+bonus-flag
+  rotate: false
+  xy: 832, 3055
+  size: 1225, 179
+  orig: 1225, 179
+  offset: 0, 0
+  index: -1
+bonus-garuda
+  rotate: false
+  xy: 2, 3069
+  size: 828, 165
+  orig: 828, 166
+  offset: 0, 0
+  index: -1
+bonus-shinelight
+  rotate: false
+  xy: 1504, 1441
+  size: 1491, 640
+  orig: 1500, 640
+  offset: 9, 0
+  index: -1
+city_fixed
+  rotate: false
+  xy: 2, 2772
+  size: 1354, 281
+  orig: 1500, 1640
+  offset: 79, 666
+  index: -1
+free-filter
+  rotate: false
+  xy: 2, 1044
+  size: 1500, 640
+  orig: 1500, 640
+  offset: 0, 0
+  index: -1
+free-fire
+  rotate: false
+  xy: 1504, 799
+  size: 1449, 640
+  orig: 1457, 640
+  offset: 4, 0
+  index: -1
+free-shinelight
+  rotate: false
+  xy: 2, 402
+  size: 1500, 640
+  orig: 1500, 640
+  offset: 0, 0
+  index: -1
+freegame-particle
+  rotate: false
+  xy: 1504, 2
+  size: 1447, 795
+  orig: 1457, 802
+  offset: 5, 2
+  index: -1
+freegame_front
+  rotate: false
+  xy: 1504, 2083
+  size: 1500, 535
+  orig: 1500, 535
+  offset: 0, 0
+  index: -1
+normal-front
+  rotate: false
+  xy: 2, 1686
+  size: 1500, 535
+  orig: 1500, 535
+  offset: 0, 0
+  index: -1
+
+bg_anim2.png
+size: 3006,2941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus-filter
+  rotate: false
+  xy: 2, 1299
+  size: 1500, 1640
+  orig: 1500, 1640
+  offset: 0, 0
+  index: -1
+bonus-front
+  rotate: false
+  xy: 2, 272
+  size: 1500, 1025
+  orig: 1500, 1025
+  offset: 0, 0
+  index: -1
+bonus-shinelight2
+  rotate: false
+  xy: 1504, 1465
+  size: 1500, 1474
+  orig: 1500, 1558
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 1504, 2
+  size: 1485, 1461
+  orig: 1490, 1465
+  offset: 1, 2
+  index: -1
