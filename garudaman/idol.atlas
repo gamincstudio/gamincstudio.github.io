@@ -1,131 +1,152 @@
 
 idol.png
-size: 3084,2306
+size: 3078,2405
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
-  rotate: true
-  xy: 2, 1106
+  rotate: false
+  xy: 2, 2
   size: 1198, 2401
   orig: 1198, 2726
   offset: 0, 325
   index: -1
 Emblem-throw
-  rotate: false
-  xy: 1505, 629
+  rotate: true
+  xy: 2306, 1077
   size: 783, 475
   orig: 784, 476
   offset: 0, 1
   index: -1
 Emblemnormal
-  rotate: true
-  xy: 2405, 1364
+  rotate: false
+  xy: 1202, 431
   size: 940, 469
   orig: 940, 469
   offset: 0, 0
   index: -1
 Eye-glow
-  rotate: false
-  xy: 2876, 1637
+  rotate: true
+  xy: 2958, 322
   size: 203, 65
   orig: 204, 65
   offset: 0, 0
   index: -1
+FXspin
+  rotate: false
+  xy: 2306, 1862
+  size: 748, 541
+  orig: 748, 541
+  offset: 0, 0
+  index: -1
 Head
   rotate: false
-  xy: 2325, 255
+  xy: 2022, 24
   size: 339, 405
   orig: 339, 405
   offset: 0, 0
   index: -1
 Mask-thransform
   rotate: false
-  xy: 2759, 594
+  xy: 2763, 527
   size: 289, 345
   orig: 289, 345
   offset: 0, 0
   index: -1
 Wng 1
-  rotate: true
-  xy: 2, 2
+  rotate: false
+  xy: 1202, 902
   size: 1102, 1501
   orig: 1102, 1582
   offset: 0, 81
   index: -1
 eye-close
   rotate: true
-  xy: 2954, 155
+  xy: 3025, 324
   size: 201, 51
   orig: 202, 51
   offset: 1, 0
   index: -1
+fx
+  rotate: true
+  xy: 2772, 76
+  size: 129, 155
+  orig: 129, 156
+  offset: 0, 0
+  index: -1
 head2
-  rotate: false
-  xy: 2666, 358
+  rotate: true
+  xy: 2363, 35
   size: 414, 234
   orig: 414, 234
   offset: 0, 0
   index: -1
 left-Hand-throw
   rotate: false
-  xy: 1505, 226
+  xy: 1202, 28
   size: 818, 401
   orig: 818, 401
   offset: 0, 0
   index: -1
 left-arm
-  rotate: true
-  xy: 2290, 662
+  rotate: false
+  xy: 2783, 1393
   size: 277, 467
   orig: 277, 467
   offset: 0, 0
   index: -1
 left-arm-bt
   rotate: false
-  xy: 2876, 1938
+  xy: 2599, 83
   size: 171, 366
   orig: 171, 366
   offset: 0, 0
   index: -1
 left-hand
   rotate: false
-  xy: 2017, 33
+  xy: 2818, 912
   size: 244, 191
   orig: 244, 191
   offset: 0, 0
   index: -1
 left-hand-bt
-  rotate: true
-  xy: 2666, 76
+  rotate: false
+  xy: 2783, 1105
   size: 280, 286
   orig: 280, 286
   offset: 0, 0
   index: -1
 mouth-open
   rotate: true
-  xy: 2290, 980
+  xy: 2940, 196
   size: 124, 84
   orig: 124, 84
   offset: 0, 0
   index: -1
 right-arm
   rotate: true
-  xy: 1505, 23
+  xy: 2306, 874
   size: 201, 510
   orig: 201, 510
   offset: 0, 0
   index: -1
 right-hand
-  rotate: true
-  xy: 2876, 1704
-  size: 232, 206
-  orig: 232, 207
+  rotate: false
+  xy: 2772, 207
+  size: 166, 128
+  orig: 169, 133
+  offset: 3, 4
+  index: -1
+right-handfist
+  rotate: false
+  xy: 2772, 337
+  size: 184, 188
+  orig: 187, 189
   offset: 0, 1
   index: -1
 right_hand-throw
   rotate: true
-  xy: 2405, 941
+  xy: 2144, 451
   size: 421, 617
   orig: 421, 617
   offset: 0, 0
