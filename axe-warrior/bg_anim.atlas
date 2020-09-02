@@ -1,135 +1,135 @@
 
 bg_anim.png
-size: 1937,1695
+size: 4636,4049
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 _0000s_0000s_0000_Branch_bonus
   rotate: false
-  xy: 2, 512
-  size: 1500, 448
-  orig: 1500, 1640
-  offset: 0, 590
+  xy: 2, 1224
+  size: 3600, 1073
+  orig: 3600, 3936
+  offset: 0, 1418
   index: -1
 _0000s_0000s_0002_Branch-1
   rotate: true
-  xy: 1528, 1326
-  size: 367, 407
-  orig: 1500, 1640
-  offset: 1133, 924
+  xy: 3658, 3166
+  size: 881, 976
+  orig: 3600, 3936
+  offset: 2719, 2218
   index: -1
 _0000s_0000s_0003_Bamboo2
   rotate: true
-  xy: 2, 1219
-  size: 245, 1306
-  orig: 1500, 1640
-  offset: 92, 334
+  xy: 2, 2911
+  size: 588, 3133
+  orig: 3600, 3936
+  offset: 221, 803
   index: -1
 _0000s_0000s_0004_Bamboo1
   rotate: true
-  xy: 2, 962
-  size: 255, 1264
-  orig: 1500, 1640
-  offset: 1245, 376
+  xy: 2, 2299
+  size: 610, 3034
+  orig: 3600, 3936
+  offset: 2990, 902
   index: -1
 _0001s_0000_Layer-15-copy-2
   rotate: false
   xy: 2, 2
-  size: 1330, 508
-  orig: 1500, 640
-  offset: 124, 37
+  size: 3191, 1220
+  orig: 3600, 1536
+  offset: 298, 89
   index: -1
 daun_bg
   rotate: false
-  xy: 26, 1466
-  size: 1500, 227
-  orig: 1500, 640
-  offset: 0, 413
+  xy: 56, 3501
+  size: 3600, 546
+  orig: 3600, 1536
+  offset: 0, 990
   index: -1
 dust1
   rotate: false
-  xy: 2, 1671
-  size: 22, 22
-  orig: 28, 28
-  offset: 3, 3
+  xy: 2, 3996
+  size: 52, 51
+  orig: 67, 67
+  offset: 7, 8
   index: -1
 
 bg_anim2.png
-size: 1504,1644
+size: 3604,3940
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 _0000s_0000s_0001_Branch-2
   rotate: false
   xy: 2, 2
-  size: 1500, 1640
-  orig: 1500, 1640
+  size: 3600, 3936
+  orig: 3600, 3936
   offset: 0, 0
   index: -1
 
 bg_anim3.png
-size: 1678,1678
+size: 4019,4019
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 _0000s_0004_Layer-12
-  rotate: true
-  xy: 1036, 2
-  size: 1032, 640
-  orig: 1500, 640
-  offset: 232, 0
+  rotate: false
+  xy: 1540, 943
+  size: 2477, 1536
+  orig: 3600, 1536
+  offset: 557, 0
   index: -1
 _0001s_0001_Layer-7
   rotate: false
-  xy: 2, 1036
-  size: 1500, 640
-  orig: 1500, 640
+  xy: 2, 2481
+  size: 3600, 1536
+  orig: 3600, 1536
   offset: 0, 0
   index: -1
 _0001s_0003_Layer-16
-  rotate: false
-  xy: 2, 394
-  size: 1032, 640
-  orig: 1500, 640
-  offset: 232, 0
+  rotate: true
+  xy: 2, 2
+  size: 2477, 1536
+  orig: 3600, 1536
+  offset: 557, 0
   index: -1
 
 bg_anim4.png
-size: 1504,1928
+size: 3604,4616
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 _0000s_0002_foreground_bonus.png
   rotate: false
-  xy: 2, 644
-  size: 1500, 640
-  orig: 1500, 640
+  xy: 2, 1540
+  size: 3600, 1536
+  orig: 3600, 1536
   offset: 0, 0
   index: -1
 _0000s_0005_Layer-2
   rotate: false
   xy: 2, 2
-  size: 1500, 640
-  orig: 1500, 640
+  size: 3600, 1536
+  orig: 3600, 1536
   offset: 0, 0
   index: -1
 _0001s_0004_Layer-18
   rotate: false
-  xy: 2, 1286
-  size: 1500, 640
-  orig: 1500, 640
+  xy: 2, 3078
+  size: 3600, 1536
+  orig: 3600, 1536
   offset: 0, 0
   index: -1
 
 bg_anim5.png
-size: 1465,644
+size: 3527,1540
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 _0000s_0003_Layer-6
   rotate: false
   xy: 2, 2
-  size: 1461, 640
-  orig: 1500, 640
-  offset: 36, 0
+  size: 3523, 1536
+  orig: 3600, 1536
+  offset: 76, 0
   index: -1
